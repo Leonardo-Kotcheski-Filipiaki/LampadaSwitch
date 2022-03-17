@@ -1,0 +1,24 @@
+#intOff{
+    width: 15vw;
+    display: inline-flex;
+}
+#lampOff{
+    width: 15vw;
+    display: inline-flex;
+    margin-left: 40vh;
+    margin-top: 15vh;
+}
+#IntOn{
+    width: 15vw;
+    margin-bottom: 4vh;
+    display: none;
+}
+#LampOn{
+    width: 15vw;
+    display: none;
+    margin-left: 40vh;
+    margin-top: 15vh;
+}
+#body {
+    background-color: black
+}
